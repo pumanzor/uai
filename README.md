@@ -1,5 +1,7 @@
 Optimización de Energía Solar con Algoritmos Genéticos
+
 Descripción General
+
 La clase SolarEnergyOptimizer es el componente central de nuestra solución para optimizar el uso de energía solar en hogares mediante algoritmos genéticos. Este sistema gestiona decisiones inteligentes de distribución energética, balanceando eficiencia económica con autonomía energética.
 
 Características Principales
